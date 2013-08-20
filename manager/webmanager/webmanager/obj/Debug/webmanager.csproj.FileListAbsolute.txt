@@ -3,3 +3,8 @@ E:\source\app1\manager\webmanager\webmanager\bin\webmanager.pdb
 E:\source\app1\manager\webmanager\webmanager\obj\Debug\webmanager.csprojResolveAssemblyReference.cache
 E:\source\app1\manager\webmanager\webmanager\obj\Debug\webmanager.dll
 E:\source\app1\manager\webmanager\webmanager\obj\Debug\webmanager.pdb
+E:\source\nearbylife\manager\webmanager\webmanager\bin\webmanager.dll
+E:\source\nearbylife\manager\webmanager\webmanager\bin\webmanager.pdb
+E:\source\nearbylife\manager\webmanager\webmanager\obj\Debug\webmanager.csprojResolveAssemblyReference.cache
+E:\source\nearbylife\manager\webmanager\webmanager\obj\Debug\webmanager.dll
+E:\source\nearbylife\manager\webmanager\webmanager\obj\Debug\webmanager.pdb
